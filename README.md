@@ -1,6 +1,6 @@
 # YouTube Mood Bar
 
-Sets the colour of the like-dislike bar along a gradient from red (100% disliked) to blue (100% liked).
+Chrome extension which sets the colour of the YouTube like-dislike bar along a gradient from red (100% disliked) to blue (100% liked).
 
 ## Installation instructions
 
